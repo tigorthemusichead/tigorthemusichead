@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Arsenii Ermolaev
+
+- 🔭 I’m currently developing a crossplatform mobile app at <a href="https://bso.ae/">BSO Real Estate Management</a>
+- 🌱 I’m currently learning Computer Science at <a href="https://gtu.ge/en/">Georgian Technical Univercity</a>
 <!--
 **tigorthemusichead/tigorthemusichead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
